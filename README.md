@@ -3,6 +3,16 @@
 A transparent, smart & secure **online tendering system** built for hackathons.  
 Clients can post projects, builders can place bids, and all actions are stored in a tamper-proof ledger.
 
+## ❓ Problem
+Traditional tendering is slow, opaque, and prone to favoritism.  
+Small builders face difficulty competing fairly.  
+
+## 💡 Solution
+E-Tender ensures:
+- Transparent bidding
+- Immutable ledger for accountability
+- Rewards for fair builders
+
 ---
 
 ## 🚀 Features
@@ -71,7 +81,7 @@ VITE_API_BASE_URL = https://e-tender-l0ed.onrender.com
 
 ---
 
-### 🎥 Demo Flow (3 min)
+### 🎥 Demo Flow
 
 - **1️⃣ Login as Client**: Post project / see seeded demo project
 - **2️⃣ Login as Builder**: Place bid on project
@@ -82,6 +92,16 @@ VITE_API_BASE_URL = https://e-tender-l0ed.onrender.com
 ---
 
 ### ✨ Future Scope
+
+- **🔗 Real blockchain integration (Polygon / Ethereum)**
+- **🔐 Secure authentication & wallet login**
+- **📱 Mobile-first UI**
+- **📊 AI-based cost estimation for projects**
+
+### 📸 Screenshots
+
+- ** will attach it**
+
 
 
 
