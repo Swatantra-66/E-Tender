@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "u_client",
+      "type": "client",
+      "name": "Demo Client",
+      "tokens": 0
+    },
+    {
+      "id": "u_builder",
+      "type": "builder",
+      "name": "Demo Builder",
+      "tokens": 10
+    }
+  ],
+  "projects": [],
+  "bids": [],
+  "ratings": [],
+  "ledger": []
+}
