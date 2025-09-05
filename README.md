@@ -50,7 +50,7 @@ cd server
 npm install
 node index.js
 ```
-## Runs on: https://e-tender-l0ed.onrender.com
+#### Runs on: https://e-tender-l0ed.onrender.com
 
 ### 3️⃣ Frontend (client)
 ```bash
@@ -69,23 +69,19 @@ npm run dev
 VITE_API_BASE_URL = https://e-tender-l0ed.onrender.com
 ```
 
-🎥 Demo Flow (3 min)
+---
 
-# 1️⃣ Login as Client
-#    → Post project / see seeded demo project
+### 🎥 Demo Flow (3 min)
 
-# 2️⃣ Login as Builder
-#    → Place bid on project
+- **1️⃣ Login as Client**: Post project / see seeded demo project
+- **2️⃣ Login as Builder**: Place bid on project
+- **3️⃣ Browse Projects**:Show all bids transparently
+- **4️⃣ Rewards Tab**:Show earned tokens for builder
+- **5️⃣ Ledger**:Show blockchain-style audit log (audit trail of actions)
 
-# 3️⃣ Browse Projects
-#    → Show all bids transparently
+---
 
-# 4️⃣ Rewards Tab
-#    → Show earned tokens for builder
-
-# 5️⃣ Ledger
-#    → Show blockchain-style audit log (audit trail of actions)
-
+### ✨ Future Scope
 
 
 
