@@ -24,7 +24,15 @@ Clients can post projects, builders can place bids, and all actions are stored i
 ---
 
 ## 📂 Project Structure
-<pre> ## 📂 Project Structure ``` E-Tender/ ├── client/ # Frontend (React + Vite) │ ├── src/ │ │ ├── components/ # UI Components (Home, Ledger, etc.) │ │ ├── App.jsx # Main React App │ │ └── api.js # Axios API client │ └── package.json │ ├── server/ # Backend (Express + JSON DB) │ ├── db.json # Demo data (projects, bids, users, ledger) │ └── index.js # Express server │ └── README.md ``` </pre>
+<pre> ## 📂 Project Structure ``` E-Tender/
+  ├── client/ # Frontend (React + Vite)
+  │ ├── src/ │ │ ├── components/ # UI Components (Home, Ledger, etc.)
+  │ │ ├── App.jsx # Main React App
+  │ │ └── api.js # Axios API client
+  │ └── package.json
+  │ ├── server/ # Backend (Express + JSON DB)
+  │ ├── db.json # Demo data (projects, bids, users, ledger)
+  │ └── index.js # Express server │ └── README.md ``` </pre>
 
 ---
 
